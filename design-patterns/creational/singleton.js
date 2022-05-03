@@ -1,0 +1,3 @@
+const singleton = {
+  dark: true,
+};

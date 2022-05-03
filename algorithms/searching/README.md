@@ -1,0 +1,4 @@
+# Searching algorithms
+
+- Linear
+- Binary
